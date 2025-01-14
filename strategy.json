@@ -1,0 +1,9 @@
+{
+    "player_balance": 100,
+    "decks": 4,
+    "wager": 10,
+    "player_stand_value": 17,
+    "dealer_stand_value": 17,
+    "total_games": 1000000
+  }
+  
